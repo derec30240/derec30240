@@ -6,6 +6,7 @@
     Hey, you can call me Dr. Kee!
 </div>
 
+<!--
 <h3 align=center>
 
 👨‍⚕️ Medical Student
@@ -18,6 +19,7 @@
 </h3>
 
 ---
+-->
 
 ### 🤔 About Me
 
@@ -38,8 +40,8 @@ class AboutMe {
 
 final aboutMe = AboutMe(
     placeOfResidence = 'Shaanxi, China',
-    currentDegree = 'Doctoral Candidate in Stomatology (8-Year Program)',
-    hobbies = ['Jogging', 'Tea', 'Phylosophy']
+    currentDegree = 'Doctoral Candidate in Stomatology',
+    hobbies = ['Jogging', 'Tea', 'Philosophy']
     motto = 'Talk less, work more.'
 )
 ```
@@ -51,12 +53,12 @@ Sometimes I would like to upload bolgs or interesting projects worthy showing. H
 ### 💻 About My Github
 
 <div align=left>
-    <img height='180' align='center' src='https://github-readme-stats.vercel.app/api?username=derec30240&layout=compact&theme=catppuccin_mocha&show_icons=true' />
     <img height='180' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derec30240&layout=compact&theme=catppuccin_mocha" />
+    <img height='180' align='center' src='https://github-readme-stats.vercel.app/api?username=derec30240&layout=compact&theme=catppuccin_mocha&show_icons=true' />
 </div>
 
 ---
 
 ### 🏆 Github Profile Trophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=derec30240&theme=nord"/>
+<img src="https://github-profile-trophy.vercel.app/?username=derec30240&theme=onedark&row=2&column=4&margin-w=15&margin-h=15"/>
