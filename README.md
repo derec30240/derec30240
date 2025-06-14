@@ -6,44 +6,15 @@
     Hey, you can call me Dr. Kee!
 </div>
 
-<!--
-<h3 align=center>
-
-👨‍⚕️ Medical Student
-
-⌨️ Amateur Programmer
-
-🩵 Open Source
-
-😽 Anime
-</h3>
-
----
--->
-
 ### 🤔 About Me
 
-```dart
-class AboutMe {
-    final String placeOfResidence;
-    final String currentDegree;
-    final List<String> hobbies;
-    final String motto;
-
-    AboutMe({
-        required this.placeOfResidence,
-        required this.currentDegree,
-        this.hobbies = [],
-        required this.motto,
-    })
-}
-
-final aboutMe = AboutMe(
-    placeOfResidence = 'Shaanxi, China',
-    currentDegree = 'Doctoral Candidate in Stomatology',
-    hobbies = ['Jogging', 'Tea', 'Philosophy']
-    motto = 'Talk less, work more.'
-)
+```python
+class AboutMe:
+    def __init__(self, location, degree, hobbies, motto):
+        self.location = 'Shaanxi, China',
+        self.degree = 'Doctoral Candidate in Stomatology',
+        self.hobbies = ['Jogging', 'Tea', 'Philosophy']
+        self.motto = 'Talk less. Smile more.'
 ```
 
 Sometimes I would like to upload bolgs or interesting projects worthy showing. However, given the pressures of school and research, this would not be very frequent🥲.
